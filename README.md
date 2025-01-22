@@ -1,5 +1,5 @@
 # MineClicker
-MineClicker is a game on Scratch I Made. Here is the link to the project:
+MineClicker is a game on Scratch I Made. Here is the link to the project: https://scratch.mit.edu/projects/779674338/
 
 I wrote a little python programm to generate the layers for me. Maybe you need it too so thats why i decided to publish it in GitHub.
 
